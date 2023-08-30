@@ -13,7 +13,7 @@ const Navbar = () => {
        className='rounded-full '/>
       <span className="ml-3 text-xl text-white font-bold">Personal Introduction</span>
     </a>
-    <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
+    <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center  ">
       <Link href={"/"} className="mr-5 hover:text-yellow-600">Home</Link>
       <Link href={"#About"} className="mr-5 hover:text-yellow-600">About</Link>
       <Link href={"#Skills"} className="mr-5 hover:text-yellow-600">Skills</Link>
