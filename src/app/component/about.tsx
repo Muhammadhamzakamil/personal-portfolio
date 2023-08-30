@@ -29,10 +29,11 @@ E-mail:@gmail.com
    Portfolios,Blog-websites etc.
       </p>
       <div className="flex justify-center">
+      <a href='/CV.jpg'>
         <button className="inline-flex text-white bg-orange-500 border-0 py-2 px-6 focus:outline-none hover:bg-orange-600 rounded text-lg">
          View CV
         </button>
-        
+        </a>
       </div>
     </div>
   </div>
